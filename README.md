@@ -8,8 +8,6 @@ The visualizer uses Roblox's new audio classes that allow for more precise audio
 
 https://github.com/vxsqi/FFT-Visualizer/assets/74667208/2449f790-e067-4318-b4f9-e4750e7a1807
 
-https://github.com/vxsqi/FFT-Visualizer/assets/74667208/2736df4b-cfba-43e1-8922-095aec30764a
-
 https://github.com/vxsqi/FFT-Visualizer/assets/74667208/a8e9e90a-d4f8-4777-b2e1-4845532742d8
 
 https://github.com/vxsqi/FFT-Visualizer/assets/74667208/ff715415-32a0-4ea1-8358-ecec0edfbdab
