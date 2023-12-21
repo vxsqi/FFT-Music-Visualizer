@@ -1,5 +1,5 @@
 # FFT-Visualizer
-Music visualizer based of a set of 512 bands and FFT https://create.roblox.com/dashboard/creations/marketplace/15673416929/configure
+Music visualizer based of a set of 512 bands and FFT https://create.roblox.com/marketplace/asset/15673416929/MusicVisualizer%3Fkeyword=&pageNumber=&pagePosition=
 
 You can also try this out without downloading the model here: https://www.roblox.com/games/14816177329/FFT
 
